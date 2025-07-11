@@ -33,3 +33,6 @@ Forecasted future sales trends
 Analyzed profit contributions by segment and category
 Highlighted underperforming areas for improvement
 
+Screenshot/Demo
+https://github.com/ranikajoshi/Dashboard/blob/main/View_My_Dashboard.png
+
