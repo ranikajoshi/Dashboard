@@ -34,5 +34,6 @@ Analyzed profit contributions by segment and category
 Highlighted underperforming areas for improvement
 
 Screenshot/Demo
-https://github.com/ranikajoshi/Dashboard/blob/main/View_My_Dashboard.png
+main dashboard - https://github.com/ranikajoshi/Dashboard/blob/main/View_My_Dashboard.png
+sales forcast dashboard - https://github.com/ranikajoshi/Dashboard/blob/main/sales_forecast_dashboard.png
 
