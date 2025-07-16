@@ -31,7 +31,7 @@ Customer Segments
 Identified top-performing products and regions
 Forecasted future sales trends
 Analyzed profit contributions by segment and category
-Highlighted underperforming areas for improvement
+Highlighted underperforming areas for improvement.
 
 Screenshot/Demo
 main dashboard - https://github.com/ranikajoshi/Dashboard/blob/main/View_My_Dashboard.png
